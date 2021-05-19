@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Page1DetailA=()=>{
   return(
     <SHomeContainer>
-      <h1>Page1DetailBページです</h1>
+      <h1>Page1DetailAページです</h1>
     </SHomeContainer>
   )
 }
